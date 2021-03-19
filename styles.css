@@ -1,0 +1,33 @@
+body {
+  background-color: #393E46;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  padding: 3% 20%;
+}
+h3 {
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  text-shadow: 2px 0 #232931;
+  font-size: 3rem;
+  padding: 1.5% 20%;
+}
+
+.buton {
+  margin-bottom: 3%;
+}
+
+.container {
+  text-align: center;
+  margin-top: 0;
+}
+.dice {
+  display: inline-block;
+  font-family: 'Indie Flower', cursive;
+  color: #4ECCA3;
+  font-size: 2rem;
+}
